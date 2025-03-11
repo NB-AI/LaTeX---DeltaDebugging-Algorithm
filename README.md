@@ -8,6 +8,12 @@ Johannes Kepler University Austria
 12th March 2024
 
 ######################################################
+
+The project is based on: 
+A. Zeller and R. Hildebrandt, "Simplifying and isolating failure-inducing input," in IEEE Transactions on Software Engineering, vol. 28, no. 2, pp. 183-200, Feb. 2002, doi: 10.1109/32.988498. keywords: {Vehicle crash testing;Debugging;Automatic testing;HTML;Computer crashes;Computer Society;Prototypes;Databases;Computer bugs;Turning},
+
+######################################################
+
 How to run the project:
 
 Pre-requirements:
@@ -41,6 +47,7 @@ Run file:
    -> The file demands an user input with the name of the file. E. g. type in 'incorrect1' which is an abbreviation for 'tex_test_files/incorrect1.tex'. It is also possible to define the full path starting from the working directory in which the project.py is contained.
 
 ######################################################
+
 Afterwards possible clean-up with following terminal commands:
 
 docker container prune 
